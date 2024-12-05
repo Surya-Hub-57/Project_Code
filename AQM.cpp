@@ -10,8 +10,7 @@
 #include <BlynkSimpleEsp32.h>
 
 // Pin Definitions
-#define DHT_PIN 4            // DHT11 sensor data pin
-#define MQ4_PIN 34           // MQ-4 sensor analog pin (A0 on ESP32)
+
 #define BUZZER_PIN 12        // Buzzer pin
 
 // DHT11 sensor setup
